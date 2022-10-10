@@ -1,0 +1,9 @@
+
+- Create Laravel Project Command.
+- Create Migration.
+- Go To Migration File To Add Db Column.
+- Go To Model To Add protected $Fillable To Add Column That U Will Can Change.
+- Create Model And Controller.
+- Write Route => Controller => Views
+- ctrl + h To Find And Replace
+- Ctrl + ~ To Open Terminal
